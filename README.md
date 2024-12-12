@@ -8,11 +8,9 @@
 
 # Projeto Planilha Financeira Inteligente
 
-Projeto com o objetivo de gerar uma planilha dinamica para controle de gastos pessoais
+Projeto com o objetivo de gerar uma planilha dinâmica para controle de gastos pessoais.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo inusitado e visualmente rico. No formato de "propaganda" convida leitores a se permitirem embarcar no mundo da imaginação.
-
 <a href="output/" title="XLSX"> 📕Clique aqui ter acesso à Planilha</a>
 
 ## 💻 Tecnologias utilizadas no projeto
