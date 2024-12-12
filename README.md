@@ -1,7 +1,7 @@
 # FinanceAPP
 
 <p align="center">
-<a href="https://github.com/Thaizebmc/Flycast-prompts-for-podcast-generate-by-ia/"><img src="assets/financeapp.jpg" alt="FLYCAST"></a>
+<a href="https://github.com/Thaizebmc/Flycast-prompts-for-podcast-generate-by-ia/"><img src="assets/financeapp .jpg" alt="FLYCAST"></a>
 </p>
 
 # Projeto Planilha Financeira Inteligente
